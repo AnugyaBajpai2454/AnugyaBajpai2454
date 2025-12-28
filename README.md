@@ -1,11 +1,11 @@
 # 💫 About Me:
 I'm currently working as a graduate trainee in smartshift over the SAP ABAP technology<br>plus my hobbies include, video editing, drawing and swimming.
-Where I've Gained.</n>
-• Hands-on experience with core ABAP concepts.
+Where I've Gained.<br
+• Hands-on experience with core ABAP concepts.<br
 • Worked on various custom development objects (RICEFW) including Reports, Interfaces, Conversions, Enhance
-ments, Forms, and Workflows.
+ments, Forms, and Workflows.<br
 • Developed a custom SAP solution to streamline the Sales and Distribution process, featuring secure login, stock
-management, an admin interface, and data handling via BDC.
+management, an admin interface, and data handling via BDC.<br
 • Contributed to the ECC to S/4HANA transformation project by fixing EPC cases, as well as HCC normal and
 notice cases, ensuring data consistency and functional accuracy.<br>
 
