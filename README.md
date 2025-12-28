@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently working as a graduate trainee in smartshift over the SAP ABAP technology<br>plus my hobbies include, video editing, drawing and swimming.
-Where I've Gained.
+Where I've Gained.</n>
 • Hands-on experience with core ABAP concepts.
 • Worked on various custom development objects (RICEFW) including Reports, Interfaces, Conversions, Enhance
 ments, Forms, and Workflows.
